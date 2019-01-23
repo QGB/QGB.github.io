@@ -1,4 +1,4 @@
-wget -O - https://qgb.github.io/t | bash
+wget -O - http://qgb.github.io/t | bash
 
 
 
